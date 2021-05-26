@@ -1,1 +1,1 @@
-### Minimal node started with typescript support
+### Minimal node-typescript starter
