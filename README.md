@@ -1,0 +1,1 @@
+### Minimal node started with typescript support
